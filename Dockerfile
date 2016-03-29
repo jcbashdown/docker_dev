@@ -76,3 +76,4 @@ RUN make
 #./studio.sh
 #jdk
 #postgres
+#compiz window shortcuts

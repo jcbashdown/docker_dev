@@ -1,0 +1,10 @@
+xhost + && \
+sudo docker run -it \
+-e DISPLAY \
+-v /dev/bus/usb:/dev/bus/usb \
+--net=host \
+-p 8600-8699:8600-8699 \
+
+http://stackoverflow.com/questions/31690808/run-virtualbox-in-docker-to-achieve-running-genymotion-in-docker
+
+https://www.google.cd/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8&client=ubuntu#q=run%20genymotion%20with%20docker
