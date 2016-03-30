@@ -77,3 +77,6 @@ RUN make
 #jdk
 #postgres
 #compiz window shortcuts
+
+#get syntax check and line numbers - vim
+
